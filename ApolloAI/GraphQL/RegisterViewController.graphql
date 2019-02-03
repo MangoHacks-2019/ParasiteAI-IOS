@@ -1,0 +1,32 @@
+
+query PatientsList($first: Int, $orderBy: [PatientOrderBy]) {
+    patientsList(first: $first, orderBy: $orderBy) {
+        items {
+            pname
+            result
+        }
+    }
+}
+
+# 1
+mutation CreateDoctor($name: [String!], $doctorID: Int!) {
+    # 2
+    doctorCreate(data: {name: $name, dID: $doctorID}) {
+        # 3
+        id
+        name
+    }
+}
+
+mutation CreatePatient($pname: String!, $result: String!) {
+    # 2
+    patientCreate(data: {pname: $pname, result: $result}) {
+        # 3
+        id
+        pname
+    }
+}
+
+
+
+

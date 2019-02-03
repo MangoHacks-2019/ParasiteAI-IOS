@@ -1,0 +1,6 @@
+framework module EightBase {
+  umbrella header "EightBase-umbrella.h"
+
+  export *
+  module * { export * }
+}
