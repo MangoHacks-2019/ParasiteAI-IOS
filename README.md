@@ -23,9 +23,6 @@ This is the first time we've ever tried to really plan out the user interface an
 
 ### Our paper wireframes for the ParsaiteAI-IOS app
 
-![alt text](https://github.com/Perronef5/OinkIOS/blob/master/WireFrames/wireframe1.jpeg?raw=true)
-
-![alt text](https://github.com/Perronef5/OinkIOS/blob/master/WireFrames/wireframe2.jpeg?raw=true "Our paper wireframes for the Oink app")
 
 
 
@@ -33,7 +30,6 @@ After creating wireframes, we validated them and re-created our layout for build
 
 ### Our software-created UI prototype
 
-![alt text](https://github.com/Perronef5/OinkIOS/blob/master/WireFrames/OinkScreenshots.png?raw=true "Our software-created UI prototype")
 
 ## The Technology
 
