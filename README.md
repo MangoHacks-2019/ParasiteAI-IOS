@@ -30,6 +30,7 @@ After creating wireframes, we validated them and re-created our layout for build
 
 ### Our software-created UI prototype
 
+![alt text](https://github.com/teamhackz/ParasiteAI-IOS/blob/master/WireFrames/Parasite-AI-WireFrame.png?raw=true "Our software-created UI prototype")
 
 ## The Technology
 
