@@ -1,4 +1,9 @@
-# ParasiteAI-IOS
+
+# **ParasiteAI-IOS**
+<p>
+  <img src="https://github.com/teamhackz/ParasiteAI-IOS/blob/master/Parasite-AI-AppIcon.png?raw=true" height='200px' width='200px'>
+</p>
+
 
 ## MangoHacks 2019
 
