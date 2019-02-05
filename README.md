@@ -1,7 +1,6 @@
 
-# ParasiteAI-IOS
-![alt text](https://github.com/teamhackz/ParasiteAI-IOS/blob/master/Parasite-AI-AppIcon.png?raw=true "Our software-created UI prototype")#center
 <p align="center">
+  ParasiteAI-IOS
   <img src="https://github.com/teamhackz/ParasiteAI-IOS/blob/master/Parasite-AI-AppIcon.png?raw=true" height='200px' width='200px'>
 </p>
 
