@@ -1,6 +1,9 @@
 
 # ParasiteAI-IOS
 ![alt text](https://github.com/teamhackz/ParasiteAI-IOS/blob/master/Parasite-AI-AppIcon.png?raw=true "Our software-created UI prototype")#center
+<p align="center">
+  <img src="https://github.com/teamhackz/ParasiteAI-IOS/blob/master/Parasite-AI-AppIcon.png?raw=true">
+</p>
 
 
 ## MangoHacks 2019
